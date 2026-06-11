@@ -1,4 +1,4 @@
-# ? Shiva Sharan | Data & Analytics Engineer
+# ⚡ Shiva Sharan | Data & Analytics Engineer
 
 > **Building scalable data systems, intelligent analytics workflows, automation pipelines, and real-world engineering solutions.**
 
@@ -8,15 +8,15 @@
 
 ---
 
-## ????? About Me
+## 👨‍💻 About Me
 
-I am a highly driven **Data & Analytics Engineer** focused on architecting robust data pipelines, designing scalable data warehouses, and deriving actionable intelligence through advanced analytics. My engineering philosophy revolves around building production-grade, end-to-end solutions�from raw data ingestion and transformation to sophisticated dimensional modeling and dashboarding. 
+I am a highly driven **Data & Analytics Engineer** focused on architecting robust data pipelines, designing scalable data warehouses, and deriving actionable intelligence through advanced analytics. My engineering philosophy revolves around building production-grade, end-to-end solutions—from raw data ingestion and transformation to sophisticated dimensional modeling and dashboarding. 
 
 With deep expertise in **SQL, Python, and modern data stack tools**, I bridge the gap between raw infrastructure and business intelligence, ensuring data quality, automation, and system reliability.
 
 ---
 
-## ??? Technical Arsenal
+## 🛠️ Technical Arsenal
 
 ### **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,13 +44,13 @@ With deep expertise in **SQL, Python, and modern data stack tools**, I bridge th
 
 ---
 
-## ?? Featured Engineering Projects
+## 🚀 Featured Engineering Projects
 
 ### 1. [NYC Taxi Data ETL Pipeline & Orchestration](https://github.com/Shiva-Sharan/NYC-Taxi-Data-ETL-Pipeline-Data-Ingestion-Quality)
 > *A production-grade, end-to-end Data Engineering pipeline for automated ingestion, transformation, and storage of massive NYC Taxi datasets.*
 
 * **Business Impact:** Automated the processing of millions of taxi trip records, ensuring high data availability and quality for downstream analytics.
-* **Architecture & Features:** Implemented modular **dbt** transformations on top of a **DuckDB** analytical engine. The entire workflow�from data extraction to testing�is orchestrated using **Kestra** and containerized via **Docker**.
+* **Architecture & Features:** Implemented modular **dbt** transformations on top of a **DuckDB** analytical engine. The entire workflow—from data extraction to testing—is orchestrated using **Kestra** and containerized via **Docker**.
 * **Tech Stack:** Python, PostgreSQL, DuckDB, dbt, Docker, Kestra.
 * **Engineering Concepts:** ELT Pipelines, Data Orchestration, Automated Data Quality Testing, Containerization.
 
@@ -80,7 +80,7 @@ With deep expertise in **SQL, Python, and modern data stack tools**, I bridge th
 
 ---
 
-## ??? Architecture & Engineering Highlights
+## 🏛️ Architecture & Engineering Highlights
 
 Across my repositories, you will find practical implementations of advanced engineering patterns:
 * **Medallion Architecture:** Structuring data flows from Bronze (Raw) to Silver (Clean) to Gold (Aggregated) layers.
@@ -91,16 +91,16 @@ Across my repositories, you will find practical implementations of advanced engi
 
 ---
 
-## ?? Project Domains
+## 📊 Project Domains
 
-* ?? **Data Engineering:** Building resilient, scalable pipelines and integrating modern data stack tools (dbt, DuckDB).
-* ?? **Analytics Engineering:** Transforming raw data into clean, documented, and tested datasets ready for business intelligence.
-* ?? **AI & Edge Computing:** Integrating computer vision algorithms with hardware telemetry for real-world automation.
-* ??? **Database Design:** Architecting warehouses and optimizing massive SQL queries.
+* 🌐 **Data Engineering:** Building resilient, scalable pipelines and integrating modern data stack tools (dbt, DuckDB).
+* 📈 **Analytics Engineering:** Transforming raw data into clean, documented, and tested datasets ready for business intelligence.
+* 🤖 **AI & Edge Computing:** Integrating computer vision algorithms with hardware telemetry for real-world automation.
+* 🏗️ **Database Design:** Architecting warehouses and optimizing massive SQL queries.
 
 ---
 
-## ?? GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Sharan&show_icons=true&theme=transparent&hide_border=true&title_color=316192&icon_color=316192" alt="GitHub Stats" width="48%" />
@@ -109,16 +109,16 @@ Across my repositories, you will find practical implementations of advanced engi
 
 ---
 
-## ?? Professional Highlights
+## 🎯 Professional Highlights
 
 * **End-to-End Ownership:** Proven ability to take a project from an ambiguous problem statement through architecture design to deployment.
 * **Architecture-Level Thinking:** Prioritizing scalability, maintainability, and clean code principles over quick scripts.
 * **Cross-Domain Adaptability:** Comfortable navigating hardware (IoT), software development (Python/TypeScript), and data engineering (SQL/dbt).
-* **Business-Centric Engineering:** Always focusing on the *why*�ensuring every pipeline built translates to tangible business value and operational efficiency.
+* **Business-Centric Engineering:** Always focusing on the *why*—ensuring every pipeline built translates to tangible business value and operational efficiency.
 
 ---
 
-## ?? Current Focus
+## 🔮 Current Focus
 
 * **Cloud-Native Data Systems:** Exploring AWS/GCP data primitives.
 * **Streaming Architectures:** Expanding from batch processing to real-time event streaming (Kafka/Spark).
@@ -126,7 +126,7 @@ Across my repositories, you will find practical implementations of advanced engi
 
 ---
 
-## ?? Let's Connect
+## 📫 Let's Connect
 
 Looking to discuss data architecture, analytics engineering, or potential opportunities? My inbox is always open.
 
