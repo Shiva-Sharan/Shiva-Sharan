@@ -3,7 +3,7 @@
 > **Building scalable data systems, intelligent analytics workflows, automation pipelines, and real-world engineering solutions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shiva-sharan-935048259)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://shiva-sharan-porfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shivasharan095@gmail.com)
 
 ---
@@ -132,7 +132,7 @@ Looking to discuss data architecture, analytics engineering, or potential opport
 
 * **Email:** [shivasharan095@gmail.com](mailto:shivasharan095@gmail.com)
 * **LinkedIn:** [linkedin.com/in/shiva-sharan-935048259](https://linkedin.com/in/shiva-sharan-935048259)
-* **Portfolio:** [Visit My Live Portfolio](#)
+* **Portfolio:** [Visit My Live Portfolio](https://shiva-sharan-porfolio.vercel.app/)
 
 ---
 <div align="center">
